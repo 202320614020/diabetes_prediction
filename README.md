@@ -1,1 +1,4 @@
 # diabetes_prediction
+Diabetes Prediction Using Machine Learning This project aims to predict diabetes using the Pima Indians Diabetes Dataset from the UCI Machine Learning Repository. The dataset includes health metrics such as glucose levels, blood pressure, BMI, age, and more. We implemented and compared three machine learning models—Logistic Regression, Decision Trees, and Random Forest—to classify whether a patient has diabetes. The project covers data preprocessing, model training, evaluation, and performance comparison. The best-performing model achieved an accuracy of 82%. This project demonstrates how machine learning can be used for early diabetes detection and risk assessment.
+
+Keywords: Diabetes Prediction, Machine Learning, Logistic Regression, Decision Trees, Random Forest, Pima Indians Dataset, Python, Scikit-learn.
